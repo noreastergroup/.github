@@ -10,14 +10,6 @@ We're a development agency that partners with businesses to deliver custom web a
 - **Mobile Apps** — Hotwire Native on iOS and Android delivers exceptional user experiences with the power of Rails
 - **API Development** — Robust, scalable APIs that power your digital ecosystem and integrate with third-party services
 
-## Our Stack
-
-- Ruby on Rails
-- Hotwire & Turbo
-- Hotwire Native (iOS & Android)
-- PostgreSQL
-- Tailwind CSS
-
 ## Let's Work Together
 
 Have an idea you want to bring to life? We'd love to hear from you.
