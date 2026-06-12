@@ -1,8 +1,8 @@
 # Noreaster Group
 
-**We build digital products for your business.**
+**We Build Software.**
 
-We're a development agency that partners with businesses to deliver custom web applications, iOS apps, and Android apps. Our tech stack is built for lasting power and easy maintenance, so your product grows with your business.
+For clients who need it done right. And products we believe in ourselves.
 
 ## What We Build
 
